@@ -15,7 +15,8 @@ function App() {
   return (
     <main>
       <h1>Donnie's App</h1>
-      <h2>
+      <p>Let's go my boi</p>
+      {/*<h2>
         Deployed with{' '}
         <a
           href="https://vercel.com/docs"
@@ -49,7 +50,7 @@ function App() {
       </p>
       <br />
       <h2>The date according to Go is:</h2>
-      <p>{date ? date : 'Loading date...'}</p>
+      <p>{date ? date : 'Loading date...'}</p>*/}
     </main>
   );
 }
